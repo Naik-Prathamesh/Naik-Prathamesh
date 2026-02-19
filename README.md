@@ -1,10 +1,3 @@
-# 💫 About Me:
-I am a Data Analytics practitioner with a clear focus on extracting insights from raw data and translating it into decisions that matter. My work spans the full data lifecycle, data cleaning, transformation, exploratory analysis, and predictive modelling using structured, repeatable methods.
-
-I work primarily with Python and SQL for analysis and data manipulation, applying EDA, statistical reasoning, and ETL workflows to uncover patterns and trends. I build dashboards and reports in Power BI and Tableau to convert complex findings into clear, decision-ready outputs. I am comfortable working with Pandas, NumPy, Excel, DAX, and relational databases such as MySQL.
-
-My approach is analytical and systematic. I prioritize understanding the problem context, validating assumptions with data, and communicating results with precision. The goal is not visualization or modeling for its own sake, but practical insight that supports better decisions.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-naik-6156b6287/) 
