@@ -28,7 +28,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-## GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=Naik-Prathamesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Naik-Prathamesh&theme=dark&hide_border=false)<br/>
