@@ -40,12 +40,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naik-Prathamesh&show_icons=true&theme=dark" height="180em" />
-  
-  <img src="https://streak-stats.demolab.com?user=Naik-Prathamesh&theme=dark&hide_border=false" height="180em" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naik-Prathamesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+
+![](https://github-readme-stats.shion.dev/api?username=Naik-Prathamesh&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=Naik-Prathamesh&theme=aura&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Naik-Prathamesh&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 </p>
+
 
 <div align="center">
 
