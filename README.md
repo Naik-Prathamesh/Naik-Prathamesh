@@ -37,11 +37,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Naik-Prathamesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Naik-Prathamesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naik-Prathamesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naik-Prathamesh&show_icons=true&theme=dark" height="180em" />
+  
+  <img src="https://streak-stats.demolab.com?user=Naik-Prathamesh&theme=dark&hide_border=false" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naik-Prathamesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+</p>
 
 <div align="center">
 
