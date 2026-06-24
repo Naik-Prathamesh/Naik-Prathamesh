@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=400&size=34&duration=5000&pause=1500&color=00FF00&center=true&vCenter=true&width=900&cursor=true&cursorChar=%E2%96%88&lines=Welcome+to+Prathamesh's+GitHub" />
 </p>
 
-<h4>You have finally discovered my Github profile.</h4>
+<h4>You have finally reached my Github profile.</h4>
 
 </div>
 
